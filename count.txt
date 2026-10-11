@@ -44,7 +44,7 @@ Source results:
   484 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
   491 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
   474 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
-  526 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
+  528 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
  2544 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ss_configs.txt
  5372 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vmess_configs.txt
   345 | https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt
