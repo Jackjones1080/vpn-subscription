@@ -4,49 +4,49 @@ Sources returning zero configs: 11
 
 Source results:
     0 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt
- 6264 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt
- 1022 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt
- 5127 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt
+ 6288 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt
+  964 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt
+ 5091 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt
  1856 | https://raw.githubusercontent.com/10ium/V2Hub3/main/merged_base64
   573 | https://raw.githubusercontent.com/10ium/V2Hub3/refs/heads/main/Split/Normal/reality
   240 | https://raw.githubusercontent.com/10ium/V2Hub3/refs/heads/main/Split/Normal/shadowsocks
     1 | https://raw.githubusercontent.com/10ium/V2ray-Config/main/Splitted-By-Protocol/hysteria2.txt
- 4407 | https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_mixed_iran.txt
- 1047 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Germany.txt
-  461 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt
- 4944 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+ 4365 | https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_mixed_iran.txt
+ 1084 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Germany.txt
+  460 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt
+ 4929 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
     6 | https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
-  611 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
-  800 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
-  700 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
+  628 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
+  793 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
+  717 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
   663 | https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt
   103 | https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/ss_iran.txt
    80 | https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vless_iran.txt
-  312 | https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt
+  305 | https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt
     0 | https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt
   240 | https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality
     0 | https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless
     0 | https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json
-   11 | https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+    9 | https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
   110 | https://raw.githubusercontent.com/Proxydaemitelegram/Proxydaemi44/refs/heads/main/Proxydaemi44
   148 | https://raw.githubusercontent.com/Stinsonysm/GO_V2rayCollector/refs/heads/main/trojan_iran.txt
-  527 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/ss
-  501 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/trojan
- 5378 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless
+  553 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/ss
+  498 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/trojan
+ 5367 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless
     0 | https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt
     0 | https://raw.githubusercontent.com/aqayerez/MatnOfficial-VPN/refs/heads/main/MatnOfficial%23MatnOfficial
     2 | https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/WS%2BHysteria2
     0 | https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
-  477 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
-  456 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt
-  484 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
+  480 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
+  460 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt
+  478 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
   491 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
-  473 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
-  481 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
-  475 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
-  570 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
- 2555 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ss_configs.txt
- 5531 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vmess_configs.txt
+  478 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
+  482 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
+  478 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
+  571 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
+ 2658 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ss_configs.txt
+ 5592 | https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vmess_configs.txt
   537 | https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt
  7458 | https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub_all.txt
     0 | https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hy2
@@ -55,5 +55,5 @@ Source results:
     0 | https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_2
     5 | https://raw.githubusercontent.com/ndsphonemy/proxy-sub/refs/heads/main/hys-tuic.txt
   516 | https://raw.githubusercontent.com/ndsphonemy/proxy-sub/refs/heads/main/speed.txt
-  155 | https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt
-  150 | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
+  149 | https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt
+  148 | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
