@@ -12,32 +12,32 @@ Source results:
   260 | https://raw.githubusercontent.com/10ium/V2Hub3/refs/heads/main/Split/Normal/shadowsocks
     1 | https://raw.githubusercontent.com/10ium/V2ray-Config/main/Splitted-By-Protocol/hysteria2.txt
  4036 | https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_mixed_iran.txt
- 2074 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Germany.txt
-  330 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt
- 4969 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+ 2076 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Germany.txt
+  343 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt
+ 4954 | https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
     6 | https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
-  465 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
-  677 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
-  729 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
+  463 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
+  679 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
+  728 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
   663 | https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt
   103 | https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/ss_iran.txt
    80 | https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vless_iran.txt
-  314 | https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt
+  325 | https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt
     0 | https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt
   240 | https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality
     0 | https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless
     0 | https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json
-   11 | https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+    8 | https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
   110 | https://raw.githubusercontent.com/Proxydaemitelegram/Proxydaemi44/refs/heads/main/Proxydaemi44
   148 | https://raw.githubusercontent.com/Stinsonysm/GO_V2rayCollector/refs/heads/main/trojan_iran.txt
-  804 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/ss
-  514 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/trojan
- 5112 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless
+  936 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/ss
+  614 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/trojan
+ 5337 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless
     0 | https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt
     0 | https://raw.githubusercontent.com/aqayerez/MatnOfficial-VPN/refs/heads/main/MatnOfficial%23MatnOfficial
     2 | https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/WS%2BHysteria2
     0 | https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
-  488 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
+  485 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
   462 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt
   474 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
   482 | https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
