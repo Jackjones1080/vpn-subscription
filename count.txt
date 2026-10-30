@@ -56,4 +56,4 @@ Source results:
     5 | https://raw.githubusercontent.com/ndsphonemy/proxy-sub/refs/heads/main/hys-tuic.txt
   516 | https://raw.githubusercontent.com/ndsphonemy/proxy-sub/refs/heads/main/speed.txt
   149 | https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt
-  139 | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
+  140 | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
